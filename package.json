@@ -1,4 +1,5 @@
 {
+  "name": "vite-vue3ts-eslint-prettier",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
